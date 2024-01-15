@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name is Johannes Bernet. I'm a full-stack software developer based in Freiburg, Germany.
+My name is Johannes. I'm a full-stack software developer based in Freiburg, Germany.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johannes-bernet/)
 [![johannesbernet.com](https://img.shields.io/badge/My_Website-333?style=for-the-badge)](https://johannesbernet.com)
