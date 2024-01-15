@@ -36,7 +36,7 @@ My name is Johannes. I'm a full-stack software developer based in Freiburg, Germ
 ![Django REST Framework](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-#### Scripting and Markup
+#### Scripting | Markup
 
 ![Bash](https://img.shields.io/badge/Bash-a32d2a?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown%20-%23000000.svg?&style=for-the-badge&logo=Markdown&logoColor=FFFFFF)
