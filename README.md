@@ -14,8 +14,8 @@ My name is Johannes. I'm a full-stack software developer based in Freiburg, Germ
 
 #### Programming Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python%20-%23004D7A.svg?&style=for-the-badge&logo=python&logoColor=ffdf76)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 
 #### Web Technologies
 
