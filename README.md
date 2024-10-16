@@ -1,14 +1,6 @@
-### Hi 👋
-
-My name is Johannes. I'm a full-stack software developer based in Freiburg, Germany.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johannes-bernet/)
 [![johannesbernet.com](https://img.shields.io/badge/My_Website-333?style=for-the-badge)](https://johannesbernet.com)
 [![My Repos](https://img.shields.io/badge/My_Repos-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nacht-falter?tab=repositories)
-
-![Johannes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nacht-falter&theme=catppuccin_latte&show_icons=true)
-
-<hr>
 
 ### What I Work With:
 
@@ -16,6 +8,7 @@ My name is Johannes. I'm a full-stack software developer based in Freiburg, Germ
 
 ![Python](https://img.shields.io/badge/Python%20-%23004D7A.svg?&style=for-the-badge&logo=python&logoColor=ffdf76)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C%20-%23323330.svg?&style=for-the-badge&logo=C&logoColor=1357A6)
 
 #### Web Technologies
 
